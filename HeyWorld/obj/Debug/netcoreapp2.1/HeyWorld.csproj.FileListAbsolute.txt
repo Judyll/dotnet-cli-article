@@ -1,0 +1,14 @@
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\bin\Debug\netcoreapp2.1\HeyWorld.deps.json
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\bin\Debug\netcoreapp2.1\HeyWorld.runtimeconfig.json
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\bin\Debug\netcoreapp2.1\HeyWorld.runtimeconfig.dev.json
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\bin\Debug\netcoreapp2.1\HeyWorld.dll
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\bin\Debug\netcoreapp2.1\HeyWorld.pdb
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.csprojAssemblyReference.cache
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.csproj.CoreCompileInputs.cache
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.RazorAssemblyInfo.cache
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.RazorAssemblyInfo.cs
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.AssemblyInfoInputs.cache
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.AssemblyInfo.cs
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.RazorTargetAssemblyInfo.cache
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.dll
+D:\Documents\Dev-Repo\DotNetCliArticle\HeyWorld\obj\Debug\netcoreapp2.1\HeyWorld.pdb
